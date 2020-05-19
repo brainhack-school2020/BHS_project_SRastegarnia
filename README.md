@@ -1,7 +1,7 @@
 # Brain_decoding
 Brain decoding or mind-reading using neuroimaging data has been an active topic for years. It is a neuroscience field that concerned about different types of stimuli from information that has already been encoded and represented in the brain by networks of neurons. 
 ## Summary
-## Backgroung and the project definition
+### Backgroung and the project definition
 I am a first year Master student at Université de Montréal. 
 For the Brainhack School 2020 project I would like to work on the brain decoding model using an open-source dataset (Haxby) in order to evaluate decoding accuracy. (I am still not sure which model I am going to use!)
 The goals of this project are:
