@@ -14,7 +14,8 @@ The goals of this project are:
 
 •	Moreover, trying to integrate as much as tools I was introduced during training week
 
-I would like to work with other people, so please feel free to contact me!
+I would like to work with other people, so please feel free to contact!
+
 The README file will be updated daily!
 
 ### Tools
