@@ -1,9 +1,8 @@
 # BHS_project_SRastegarnia
-<img src="Images/logo_neuromod_vert.jpg" width="500" height="250" vertical_align="middle">
 ## Quick presentation
 I am a first-year Master student in computer science at Université de Montréal. My Master's project is about brain decoding and it is a part of a bigger project, the Courtois Neuromod. 
 
-<img src="Images/logo_neuromod_vert.jpg" width="200" height="100" vertical_align="middle">
+<img src="Images/logo_neuromod_vert.jpg" width="200" height="100">
 
 Since I am still in the early steps of my master’s project, my main goal is to learn as much as possible and making use of several tools that we have learned during BHS training courses.
 
