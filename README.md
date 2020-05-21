@@ -1,7 +1,7 @@
 # Brain_decoding
 Brain decoding or mind-reading using neuroimaging data has been an active topic for years. It is a neuroscience field that concerned about different types of stimuli from information that has already been encoded and represented in the brain by networks of neurons. 
 ## Quick presentation
-I am a first-year Master student in computer science at Université de Montréal. My Master's project is brain decoding and it is a part of a bigger project, the Courtois Neuromod. 
+I am a first-year Master student in computer science at Université de Montréal. My Master's project is about brain decoding and it is a part of a bigger project, the Courtois Neuromod. 
 Since I am still in the early steps of my master’s project, my goal is to learn as much as possible and making use of several tools that we have learned during BHS training courses. For the BHS project I would like to run and compare the results of the different classifiers, (including Linear classifiers, Support vector machines, Random forests Decision trees, and Neural networks) for brain decoding on the Haxby dataset.
 ## Summary
 ### Backgroung
