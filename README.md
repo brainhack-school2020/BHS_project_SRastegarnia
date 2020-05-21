@@ -25,7 +25,10 @@ The goals of this project are:
 I would like to work with other people, so if you have similar interests lets get in touch!
 
 ### Tools
-Python github and other tools which I am learning during braihack school
+•	Github
+•	Nilearn
+•	Python visualization and ML packages (e.g. scikit-learn, matlplotlib)
+
 ### Data
 I am going to use Haxby et al. (2001) data set which is a block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in high-level visual processing of complex stimuli).The data set consisted of 6 subjects and 12 runs for each, a size that seems enough for this project.
 ### Deliverable
