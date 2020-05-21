@@ -2,12 +2,16 @@
 Brain decoding or mind-reading using neuroimaging data has been an active topic for years. It is a neuroscience field that concerned about different types of stimuli from information that has already been encoded and represented in the brain by networks of neurons. 
 ## Quick presentation
 I am a first-year Master student in computer science at Université de Montréal. My Master's project is about brain decoding and it is a part of a bigger project, the Courtois Neuromod. 
-Since I am still in the early steps of my master’s project, my goal is to learn as much as possible and making use of several tools that we have learned during BHS training courses. For the BHS project I would like to run and compare the results of the different classifiers, (including Linear classifiers, Support vector machines, Random forests Decision trees, and Neural networks) for brain decoding on the Haxby dataset.
+
+Since I am still in the early steps of my master’s project, my main goal is to learn as much as possible and making use of several tools that we have learned during BHS training courses.
+
 ## Summary
 ### Backgroung
 
 ### Project definition
-For the Brainhack School 2020 project I would like to work on the brain decoding model using an open-source dataset (Haxby) in order to evaluate decoding accuracy. (I am still not sure which model I am going to use!)
+For the BHS project I would like to run and compare the results of the different classifiers for brain decoding on the Haxby dataset.
+The project aims to run Linear classifiers, Support vector machines, Random forests Decision trees, and Neural networks then will compare and examines their performance.
+
 The goals of this project are:
 
 •	Getting familiar with a brain decoding process in Python
@@ -18,16 +22,17 @@ The goals of this project are:
 
 •	Moreover, trying to integrate as much as tools I was introduced during training week
 
-I would like to work with other people, so please feel free to contact!
-
-The README file will be updated daily!
+I would like to work with other people, so if you have similar interests lets get in touch!
 
 ### Tools
 Python github and other tools which I am learning during braihack school
 ### Data
 I am going to use Haxby et al. (2001) data set which is a block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in high-level visual processing of complex stimuli).The data set consisted of 6 subjects and 12 runs for each, a size that seems enough for this project.
 ### Deliverable
-Deliverable 1: report template
+•	Github repository including project description and python codes
 
-Deliverable 2: project gallery
+•	Presentation slides
+
+•	The project gallery and reports
+
 ## Conclusion and acknowledgement
