@@ -25,7 +25,7 @@ The README file will be updated daily!
 ### Tools
 Python github and other tools which I am learning during braihack school
 ### Data
-For brainhack school project i will use Haxby et al. (2001) data set which is a block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in high-level visual processing of complex stimuli). (6 subjs,12 runs per subj)
+I am going to use Haxby et al. (2001) data set which is a block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in high-level visual processing of complex stimuli).The data set consisted of 6 subjects and 12 runs for each, a size that seems enough for this project.
 ### Deliverable
 Deliverable 1: report template
 
