@@ -1,5 +1,8 @@
 # BHS_project_SRastegarnia
-## Quick presentation
+
+<img src="Images/Image_brain_decoding.jpg" width="1000" height="400">
+
+## Presentation
 I am a first-year Master student in computer science at Université de Montréal. My Master's project is about brain decoding and it is a part of a bigger project, the Courtois Neuromod. 
 
 <img src="Images/logo_neuromod_vert.jpg" width="200" height="100">
