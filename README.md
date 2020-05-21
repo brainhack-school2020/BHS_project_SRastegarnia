@@ -14,6 +14,8 @@ Since I am still in the early steps of my master’s project, my main goal is to
 ## Project definition
 ### Backgroung: Brain_decoding
 Brain decoding or mind-reading using neuroimaging data has been an active topic for years. It is a neuroscience field that concerned about different types of stimuli from information that has already been encoded and represented in the brain by networks of neurons. 
+In the human brain, the functional architecture of the object vision pathway can be investigated using fMRI.
+It can be done by considering the patterns of response in the ventral temporal cortex while subjects are looking at the different objects. Several studies indicate that the brain responses to the vision of each category of objects are widely distributed and overlapping. Therefore, a distinct pattern of response exists for each stimulus category in the ventral temporal cortex.
 
 ### Project overview
 For the BHS project I would like to run and compare the results of the different classifiers for brain decoding on the Haxby dataset.
@@ -38,13 +40,14 @@ I would like to work with other people, so if you have similar interests lets ge
 
 •	Python visualization, statistics and machine learning libraries (e.g. NumPy, Seaborn, scikit-learn, Matlplotlib, bokeh)
 
-• Practicing terminal
-
 
 ### Data
 For the purpose of this project, I am going to use Haxby et al. (2001) data set which is a block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in high-level visual processing of complex stimuli).The data set consisted of 6 subjects and 12 runs for each, a size that seems enough for this project.
 
+An examples of stimuli in Haxby dataset is as follow: (Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex, Haxby et al. 2001)
+
 <img src="Images/Haxby_exmp.png" width="157" height="214">
+
 
 ### Deliverable
 By the end of this project, I would provide:
