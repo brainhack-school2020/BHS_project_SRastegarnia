@@ -1,5 +1,5 @@
 # BHS_project_SRastegarnia
-
+Contributors: Shima Rastegarnia
 <img src="Images/Image_brain_decoding.jpg" width="1000" height="400">
 
 ## Presentation
@@ -10,10 +10,12 @@ I am a first-year Master student in computer science at Université de Montréal
 Since I am still in the early steps of my master’s project, my main goal is to learn as much as possible and making use of several tools that we have learned during BHS training courses.
 
 ## Summary
+
+## Project definition
 ### Backgroung: Brain_decoding
 Brain decoding or mind-reading using neuroimaging data has been an active topic for years. It is a neuroscience field that concerned about different types of stimuli from information that has already been encoded and represented in the brain by networks of neurons. 
 
-### Project definition
+### Project overview
 For the BHS project I would like to run and compare the results of the different classifiers for brain decoding on the Haxby dataset.
 The project aims to run Linear classifiers, Support vector machines, Random forests Decision trees, and Neural networks then will compare and examines their performance.
 
@@ -41,6 +43,7 @@ I would like to work with other people, so if you have similar interests lets ge
 
 ### Data
 For the purpose of this project, I am going to use Haxby et al. (2001) data set which is a block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in high-level visual processing of complex stimuli).The data set consisted of 6 subjects and 12 runs for each, a size that seems enough for this project.
+
 ### Deliverable
 By the end of this project, I would provide:
 
@@ -55,10 +58,28 @@ By the end of this project, I would provide:
 •	The project gallery and final report
 
 ## Results
+### Progress overview
 Coming soon...
+### Tools I learned during this project
+•	Git/Github
+
+•	Nilearn
+
+•	Python visualization and machine learning
+
+• Practicing terminal and some Shell commands
+
+• Compute canada/ Calcul Québec
+
+•	Python virtual environments
 
 ## Conclusion and acknowledgement
 Coming soon...
+
+### Results
+Coming soon...
+
+## Conclusion and acknowledgement
 
 ## TO-DO LIST
 • ML model training/testing
