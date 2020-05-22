@@ -8,6 +8,8 @@ My name is Shima Rastegarnia, I have a bachelor’s in computer software enginee
 <img src="Images/logo.png" width="1000" height="100"> 
 Since I am still in the early steps of my master’s project, my main goal is to learn as much as possible and making use of several tools that we have learned during BHS training courses.
 
+[My first presentation slides](https://drive.google.com/open?id=1ABaOXwWPks8xB28OlkiwDvqx7D0B2htQ)
+
 ## Summary
 
 ## Project definition
@@ -43,7 +45,7 @@ I would like to work with other people, so if you have similar interests lets ge
 ### Data
 For the purpose of this project, I will use the Haxby et al. (2001) data set which is a high-quality block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in the high-level visual processing of complex stimuli). The data set consisted of 6 subjects and 12 runs for each, a size that seems enough for this project.
 
-http://data.pymvpa.org/datasets/haxby2001/
+[Haxby dataset](http://data.pymvpa.org/datasets/haxby2001/)
 
 An examples of stimuli in Haxby dataset is as follow: (Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex, Haxby et al. 2001)
 
