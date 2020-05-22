@@ -1,12 +1,11 @@
 # BHS_project_SRastegarnia
 Contributors: Shima Rastegarnia
-<img src="Images/Image_brain_decoding.jpg" width="1000" height="400">
+<img src="Images/Brain_decoding.png" width="1000" height="400">
 
 ## Presentation
-I am a first-year Master student in computer science at Université de Montréal. My Master's project is about brain decoding and it is a part of a bigger project, the Courtois Neuromod. 
+My name is Shima Rastegarnia, I have a bachelor’s in computer software engineering, and I have started my master’s in computer science at Université de Montréal last January. Before starting my master's for a while, I was working at Simexp lab as a researcher assistant. When I joined the Simexp lab I had almost no neuroscience background but fortunately, it gave me the chance to become familiar with this field. My Master's project is about brain decoding and it is a part of a bigger project, the Courtois Neuromod. 
 
-<img src="Images/logo_neuromod_vert.jpg" width="200" height="100">
-
+<img src="Images/logo.png" width="1000" height="100"> 
 Since I am still in the early steps of my master’s project, my main goal is to learn as much as possible and making use of several tools that we have learned during BHS training courses.
 
 ## Summary
