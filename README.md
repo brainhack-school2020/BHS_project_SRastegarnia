@@ -41,7 +41,9 @@ I would like to work with other people, so if you have similar interests lets ge
 
 
 ### Data
-For the purpose of this project, I am going to use Haxby et al. (2001) data set which is a block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in high-level visual processing of complex stimuli).The data set consisted of 6 subjects and 12 runs for each, a size that seems enough for this project.
+For the purpose of this project, I will use the Haxby et al. (2001) data set which is a high-quality block-design fMRI dataset from a study on face & object representation in the human ventral temporal cortex (involved in the high-level visual processing of complex stimuli). The data set consisted of 6 subjects and 12 runs for each, a size that seems enough for this project.
+
+http://data.pymvpa.org/datasets/haxby2001/
 
 An examples of stimuli in Haxby dataset is as follow: (Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex, Haxby et al. 2001)
 
