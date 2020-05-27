@@ -49,7 +49,7 @@ For the purpose of this project, I will use the Haxby et al. (2001) data set whi
 
 An examples of stimuli in Haxby dataset is as follow: (Distributed and Overlapping Representations of Faces and Objects in Ventral Temporal Cortex, Haxby et al. 2001)
 
-<img src="Images/Haxby_exmp.png" width="157" height="214">
+<img src="Images/Haxby_stimuli.png" width="157" height="240">
 
 
 ### Deliverable
