@@ -24,22 +24,16 @@ The project aims to run Linear classifiers, Support vector machines, Random fore
 
 The goals of this project are:
 
-•	Getting familiar with a brain decoding process in Python
-
-•	Writing a Python-based machine learning/deep learning codes for this approach
-
-•	Analyzing the results and see the difference for the different model using python plot
-
-•	Moreover, trying to integrate as much as tools I was introduced during training week
-
-I would like to work with other people, so if you have similar interests lets get in touch!
+*	Getting familiar with a brain decoding process in Python
+*	Writing a Python-based machine learning/deep learning codes for this approach
+*	Analyzing the results and see the difference for the different model using python plot
+*	Moreover, trying to integrate as much as tools I was introduced during training week
 
 ### Tools
-•	Git/Github
-
-•	Nilearn
-
-•	Python visualization, statistics and machine learning libraries (e.g. NumPy, Seaborn, scikit-learn, Matlplotlib, bokeh)
+*	Git/Github
+*	Nilearn
+*	Python visualization, statistics and machine learning libraries (e.g. NumPy, Seaborn, scikit-learn, Matlplotlib, bokeh)
+* Compute Canada/ Calcul Québec
 
 
 ### Data
@@ -55,42 +49,45 @@ An examples of stimuli in Haxby dataset is as follow: (Distributed and Overlappi
 ### Deliverable
 By the end of this project, I would provide:
 
-•	Github repository including project description and python codes
-
-•	Presentation slides
-
-•	A jupyter notebook presentation for the project results
-
-• A Jupyter Notebooks with the data analysis and visualization
-
-•	The project gallery and final report
+*	Github repository including project description and python codes
+*	Presentation slides
+*	A jupyter notebook presentation for the project results
+* A Jupyter Notebooks with the data analysis and visualization
+*	The project gallery and final report
 
 ## Results
 ### Progress overview
-Coming soon...
+*Coming soon...*
 ### Tools I learned during this project
-•	Git/Github
-
-•	Nilearn
-
-•	Python visualization and machine learning
-
-• Practicing terminal and some Shell commands
-
-• Compute canada/ Calcul Québec
-
-•	Python virtual environments
+*	Git/Github
+*	Nilearn
+*	Python visualization and machine learning
+* Practicing terminal and some Shell commands
+* Compute canada/ Calcul Québec
+*	Python virtual environments
 
 ## Conclusion and acknowledgement
-Coming soon...
+*Coming soon...*
 
 ### Results
-Coming soon...
+*Coming soon...*
 
 ## Conclusion and acknowledgement
 
 ## TO-DO LIST
-Week 4:
-• June 1st: Modifying plots and adding new interactable plot. Modify classifiers.
-• June 2nd: Run the scripts on whole dataset using Compute Canada.
-• June 3rd: Polishing codes and Working on presentation's slides.
+**Week 4:**
+* June 1st:  
+  - [ ] Modifying existed plots: 
+    - [ ] color blind friendly
+    - [ ] adding legends
+  - [ ] Adding new interactable plot
+  - [ ] Check and Modifing classifiers
+  - [ ] Adding visualization notebook
+  
+* June 2nd: 
+  - [ ] Run the scripts on whole dataset using Compute Canada
+
+* June 3rd:
+  - [ ] Polishing codes
+  - [ ] Working on presentation's slides
+  - [ ] Create presentation ipython
