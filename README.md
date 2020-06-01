@@ -90,10 +90,7 @@ Coming soon...
 ## Conclusion and acknowledgement
 
 ## TO-DO LIST
-• ML model training/testing
-
-• results plotting (visualization)
-
-• Pushing codes and results on Github
-
-• ....
+Week 4:
+• June 1st: Modifying plots and adding new interactable plot. Modify classifiers.
+• June 2nd: Run the scripts on whole dataset using Compute Canada.
+• June 3rd: Polishing codes and Working on presentation's slides.
