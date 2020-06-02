@@ -77,15 +77,14 @@ By the end of this project, I would provide:
 ## TO-DO LIST
 **Week 4:**
 * June 1st:  
-  - [ ] Modifying existed plots: 
-    - [ ] color blind friendly
-    - [ ] adding legends
+  - [x] Modifying existed plots: 
+    - [x] color blind friendly
+    - [x] adding legends
   - [ ] Adding new interactable plot
-  - [ ] Check and Modifing classifiers
-  - [ ] Adding visualization notebook
+  - [x] Adding visualization notebook
   
 * June 2nd: 
-  - [ ] Run the scripts on whole dataset using Compute Canada
+  - [x] Run the scripts on Compute Canada
 
 * June 3rd:
   - [ ] Polishing codes
