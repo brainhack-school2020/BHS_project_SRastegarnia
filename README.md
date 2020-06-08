@@ -55,6 +55,7 @@ An examples of stimuli in Haxby dataset is as follow: (Distributed and Overlappi
 
 ## Deliverables
 [Week 3 deliverable: data visualization](https://github.com/brainhack-school2020/BHS_project_SRastegarnia/blob/master/Data-visualization.ipynb)
+Please check the visualization notebook using binder to see the interactive plot (cells 8 & 9) since the outputs are not shown without binder.
 
 By the end of this project, I would provide:
 
