@@ -1,0 +1,31 @@
+Classifier,Fold,Accuraacy%
+SVM,1,85.87
+SVM,2,82.75
+SVM,3,83.52
+SVM,4,84.67
+SVM,5,83.14
+Naive Bayes,1,81.67
+Naive Bayes,2,79.69
+Naive Bayes,3,78.54
+Naive Bayes,4,79.69
+Naive Bayes,5,79.31
+Logistic Regression,1,80.91
+Logistic Regression,2,82.37
+Logistic Regression,3,76.62
+Logistic Regression,4,80.84
+Logistic Regression,5,78.16
+K-Nearest,1,73.66
+K-Nearest,2,70.88
+K-Nearest,3,69.73
+K-Nearest,4,75.86
+K-Nearest,5,69.34
+Neural Networks,1,58.01
+Neural Networks,2,57.47
+Neural Networks,3,59.38
+Neural Networks,4,57.85
+Neural Networks,5,55.17
+Decision trees,1,51.52
+Decision trees,2,44.06
+Decision trees,3,40.22
+Decision trees,4,47.50
+Decision trees,5,43.67
