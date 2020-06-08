@@ -1,5 +1,8 @@
 # BHS_project_SRastegarnia
 This is the repository for my project of MONTREAL BRAINHACK SCHOOL, on May 2020.
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/brainhack-school2020/BHS_project_SRastegarnia/master)
+
 <img src="Images/Brain_decoding.png" width="1000" height="400">
 
 ## Presentation
