@@ -8,8 +8,9 @@ This is the repository for my project of MONTREAL BRAINHACK SCHOOL, on May 2020.
 ## Presentation
 Name: Shima Rastegarnia
 Education:
-•	B.S in computer software engineering
-•	Master’s student in computer science at Université de Montréal (Jan. 2019)
+* B.S in computer software engineering
+* Master’s student in computer science at Université de Montréal (Jan. 2020)
+
 Before starting my master's for a while, I was working at Simexp lab as a researcher assistant. When I joined the Simexp lab I had almost no neuroscience background but fortunately, it gave me the chance to become familiar with this field. My Master's project is about brain decoding and it is a part of a bigger project, the Courtois Neuromod.
 
 <img src="Images/logo.png" width="1000" height="100"> 
