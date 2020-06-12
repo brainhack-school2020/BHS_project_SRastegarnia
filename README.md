@@ -86,18 +86,33 @@ By the end of this project, I would provide:
 ## Conclusion and acknowledgement
 
 ## TO-DO LIST
-**Week 4:**
-* June 1st:  
+**Week 2:**
+  - [x] Making my git and github repository
+  - [x] Following Nilearn tutorial
+  - [x] Figuring out my project subject
+  - [x] Making my git and github repository
+
+**Week 3:**
+  - [x] Asking compute canada account update
+  - [x] Learning and running the following classifiers:
+    - [x] Support vector machine
+    - [x] Logistic Regression
+    - [x] Naive Bayes
+    - [x] K-Nearest Neighbours
+    - [x] Neural Networks
+    - [x] Decision tree
+   - [x] Learning and running cross validation for each classifier
+
+**Week 4:**  
   - [x] Modifying existed plots: 
     - [x] color blind friendly
     - [x] adding legends
-  - [ ] Adding new interactable plot
+  - [x] Adding new interactable plot
+  - [x] Checking each classifier confusion matrix
+  - [x] Adding binder to my repo
   - [x] Adding visualization notebook
-  
-* June 2nd: 
   - [x] Run the scripts on Compute Canada
-
-* June 3rd:
-  - [ ] Polishing codes
-  - [ ] Working on presentation's slides
-  - [ ] Create presentation ipython
+  - [x] Polishing classifier notebook
+  - [x] making presentation's slides
+  - [x] Adding and running batch script on compute canada
+  - [ ] <s>Create presentation ipython</s>
