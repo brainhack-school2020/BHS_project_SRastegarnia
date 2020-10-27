@@ -13,7 +13,7 @@ ci-info==0.2.0
 click==7.1.2
 conda==4.8.3
 conda-package-handling==1.6.0
-cryptography==2.8
+cryptography==3.2
 cycler==0.10.0
 Cython==0.29.17
 decorator==4.4.2
