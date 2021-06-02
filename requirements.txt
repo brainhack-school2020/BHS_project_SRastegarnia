@@ -130,7 +130,7 @@ tornado==6.0.4
 tqdm==4.42.1
 traitlets==4.3.3
 traits==6.0.0
-urllib3==1.25.8
+urllib3==1.26.5
 vega==3.4.0
 vega-datasets==0.8.0
 watermark==2.0.2
